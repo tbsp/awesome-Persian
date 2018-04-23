@@ -41,9 +41,16 @@ A curated list of Persian resources, communities, and more. Inspired by the [awe
 - [گیم فا (Gamefa)](https://gamefa.com/) - Video game news, reviews and articles.
 - [ZOOMG](https://www.zoomg.ir/) - Video game news, reviews and articles.
 
+#### Games With Persian Language Support
+
+- [Garshasp: The Monster Slayer](http://store.steampowered.com/app/99400/Garshasp_The_Monster_Slayer/) - Action game based on Garshasp, a monster-slaying hero from Persian mythology.
+- [Engare](http://store.steampowered.com/app/415170/Engare/) - Part puzzle game, part drawing tool.
+- [Cafe Bazaar](https://cafebazaar.ir/) - An alternative Android storefront, containing a large number of Persian language games.
+
 ### Board Games
 
 - [رومیز (Roomiz)](http://roomizgames.ir/) - Board game reviews, articles, and podcasts.
+- [گیمی باگس (Gamybox)](http://gamybox.ir) - A board game market place.
 
 ## News
 
