@@ -22,7 +22,7 @@ A curated list of Persian resources, communities, and more. Inspired by the [awe
 
 ### Tools
 
--[Persian Verb Conjugator](http://www.jahanshiri.ir/pvc/en/) - Quickly lookup conjugations for verbs in all tenses and moods.
+- [Persian Verb Conjugator](http://www.jahanshiri.ir/pvc/en/) - Quickly lookup conjugations for verbs in all tenses and moods.
 
 ## Poetry
 
