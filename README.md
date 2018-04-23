@@ -20,6 +20,10 @@ A curated list of Persian resources, communities, and more. Inspired by the [awe
 
 ## Learning Resources
 
+### Tools
+
+-[Persian Verb Conjugator](http://www.jahanshiri.ir/pvc/en/) - Quickly lookup conjugations for verbs in all tenses and moods.
+
 ## Poetry
 
 ## Music
