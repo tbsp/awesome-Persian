@@ -16,6 +16,24 @@ A curated list of Persian resources, communities, and more. Inspired by the [awe
 - [Contributing](#i-want-to-contribute)
 - [License](#license)
 
+## Learning Community
+
+## Learning Resources
+
+## Poetry
+
+## Music
+
+## Food
+
+## TV
+
+## Movies
+
+## Gaming
+
+## News
+
 ## I Want to Contribute!
 
 Great! :smiley:
