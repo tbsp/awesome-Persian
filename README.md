@@ -32,6 +32,12 @@ A curated list of Persian resources, communities, and more. Inspired by the [awe
 
 ## Gaming
 
+### Video Games
+
+### Board Games
+
+- [رومیز (Roomiz)](http://roomizgames.ir/) - Board game reviews, articles, and podcasts.
+
 ## News
 
 ## I Want to Contribute!
