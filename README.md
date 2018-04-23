@@ -34,6 +34,9 @@ A curated list of Persian resources, communities, and more. Inspired by the [awe
 
 ### Video Games
 
+- [گیم فا (Gamefa)](https://gamefa.com/) - Video game news, reviews and articles.
+- [ZOOMG](https://www.zoomg.ir/) - Video game news, reviews and articles.
+
 ### Board Games
 
 - [رومیز (Roomiz)](http://roomizgames.ir/) - Board game reviews, articles, and podcasts.
