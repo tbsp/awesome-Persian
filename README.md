@@ -51,6 +51,7 @@ A curated list of Persian resources, communities, and more. Inspired by the [awe
 
 - [رومیز (Roomiz)](http://roomizgames.ir/) - Board game reviews, articles, and podcasts.
 - [گیمی باگس (Gamybox)](http://gamybox.ir) - A board game market place.
+- [Namavaran Chess Club](http://gchess.ir/) - Chess club based in Iran.
 
 ## News
 
