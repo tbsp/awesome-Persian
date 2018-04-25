@@ -20,6 +20,9 @@ A curated list of Persian resources, communities, and more. Inspired by the [awe
 
 ## Learning Resources
 
+- [Easy Persian](http://www.easypersian.com/) - A large collection of Persian language lessons starting from the very beginning.
+- [Persian of Iran Today](http://www.laits.utexas.edu/persian_teaching_resources/) - Persian of Iran Today textbooks and audio/visual resources.
+
 ### Tools
 
 - [Persian Verb Conjugator](http://www.jahanshiri.ir/pvc/en/) - Quickly lookup conjugations for verbs in all tenses and moods.
@@ -32,7 +35,14 @@ A curated list of Persian resources, communities, and more. Inspired by the [awe
 
 ## TV
 
+- [IranProud](http://www.iranproud2.com) - Iranian TV series, shows, music and movies.
+
 ## Movies
+
+## Anime & Manga
+
+- [دنیای انیمه و مانگا](http://animworld.net/) - Anime and manga community.
+- [بهشت انیمه](https://forums.animparadise.com) - Anime and manga community.
 
 ## Gaming
 
@@ -40,6 +50,8 @@ A curated list of Persian resources, communities, and more. Inspired by the [awe
 
 - [گیم فا (Gamefa)](https://gamefa.com/) - Video game news, reviews and articles.
 - [ZOOMG](https://www.zoomg.ir/) - Video game news, reviews and articles.
+- [آقای گیمیفیکیشن (Mr. Gamification)](http://www.mrgamification.com/) - Blog about gamification.
+
 
 #### Games With Persian Language Support
 
@@ -52,6 +64,7 @@ A curated list of Persian resources, communities, and more. Inspired by the [awe
 - [رومیز (Roomiz)](http://roomizgames.ir/) - Board game reviews, articles, and podcasts.
 - [گیمی باگس (Gamybox)](http://gamybox.ir) - A board game market place.
 - [Namavaran Chess Club](http://gchess.ir/) - Chess club based in Iran.
+- [سرزمین ذهن زیبا](http://lbmind.com/) - An educational/thinking board game market.
 
 ## News
 
