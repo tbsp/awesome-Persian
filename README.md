@@ -22,10 +22,12 @@ A curated list of Persian resources, communities, and more. Inspired by the [awe
 
 - [Easy Persian](http://www.easypersian.com/) - A large collection of Persian language lessons starting from the very beginning.
 - [Persian of Iran Today](http://www.laits.utexas.edu/persian_teaching_resources/) - Persian of Iran Today textbooks and audio/visual resources.
+- [Persian Online - University of Texas Austin](http://sites.la.utexas.edu/persian_online_resources/) - Persian grammar reference, including a large number of integrated audio samples.
 
 ### Tools
 
 - [Persian Verb Conjugator](http://www.jahanshiri.ir/pvc/en/) - Quickly lookup conjugations for verbs in all tenses and moods.
+- [A Comprehensive Persian-English Dictionary](http://dsal.uchicago.edu/dictionaries/steingass/) - Online version of the Steingass Persian-English dictionary.
 
 ## Poetry
 
