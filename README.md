@@ -20,16 +20,24 @@ A curated list of Persian resources, communities, and more. Inspired by the [awe
 
 ## Learning Resources
 
+- [Parsianada](http://www.youtube.com/parsianada) - A YouTube channel with a wide variety of videos covering Persian language and culture.
 - [Easy Persian](http://www.easypersian.com/) - A large collection of Persian language lessons starting from the very beginning.
 - [Persian of Iran Today](http://www.laits.utexas.edu/persian_teaching_resources/) - Persian of Iran Today textbooks and audio/visual resources.
 - [Persian Online - University of Texas Austin](http://sites.la.utexas.edu/persian_online_resources/) - Persian grammar reference, including a large number of integrated audio samples.
+- [Chai and Conversation](https://www.chaiandconversation.com/) - A large selection of podcasts covering Persian language and culture, as well as subscription-based lesson content.
+- [Persian Phrasebook](https://wikitravel.org/en/Persian_phrasebook) - Wikitravel's Persian phrasebook.
 
 ### Tools
 
 - [Persian Verb Conjugator](http://www.jahanshiri.ir/pvc/en/) - Quickly lookup conjugations for verbs in all tenses and moods.
 - [A Comprehensive Persian-English Dictionary](http://dsal.uchicago.edu/dictionaries/steingass/) - Online version of the Steingass Persian-English dictionary.
+- [PersDic](http://dictionary-farsi.com/) - Persian dictionay.
 
 ## Poetry
+
+## Books
+
+- [شرکت کتاب (Book Corp)](http://shop.ketab.com/) - Online Persian book store.
 
 ## Music
 
@@ -38,6 +46,8 @@ A curated list of Persian resources, communities, and more. Inspired by the [awe
 ## TV
 
 - [IranProud](http://www.iranproud2.com) - Iranian TV series, shows, music and movies.
+- [Manoto1](https://www.manototv.com/) - Persian TV channel based in Britain.
+- [IranPoletik](https://www.youtube.com/user/IranPoletik) - Political comedy show, similar to The Daily Show, etc.
 
 ## Movies
 
